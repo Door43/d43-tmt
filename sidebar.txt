@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tmt:home|Door43 (tmt)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tmt|d43-tmt repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tmt/archive/master.zip|d43-tmt.zip]]
+
+**Recent Changes**
+{{changes>ns = tmt}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tmt|Ethnologue data]]
+
